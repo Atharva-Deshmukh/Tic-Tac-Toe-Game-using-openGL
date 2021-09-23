@@ -6,8 +6,6 @@ DevC++ compiler in order to run this .dev file
 
 
 openGL glut header files are must to install in your compiler
-
-I have provided the C file as well to save your time but it won't run on your machine unless u've glut.h installed.
 _______________________________________________________________________
 
 What is a Tic Tac Toe game?
