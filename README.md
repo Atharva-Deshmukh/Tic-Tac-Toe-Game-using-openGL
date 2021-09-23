@@ -1,5 +1,10 @@
 # Tic-Tac-Toe-Game-using-openGL
 
+REQUIREMENTS ON YOUR SIDE:
+
+DevC++ compiler in order to run this .dev file
+_______________________________________________________________________
+
 What is a Tic Tac Toe game?
 
 Tic-tac-toe, noughts and crosses, or Xs and Os/“X’y O’sies”, is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. 
