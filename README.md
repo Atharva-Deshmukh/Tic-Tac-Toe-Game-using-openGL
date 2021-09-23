@@ -3,6 +3,8 @@
 REQUIREMENTS ON YOUR SIDE:
 
 DevC++ compiler in order to run this .dev file
+
+
 openGL glut header files are must to install in your compiler
 _______________________________________________________________________
 
