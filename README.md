@@ -5,7 +5,7 @@ REQUIREMENTS ON YOUR SIDE:
 DevC++ compiler in order to run this .dev file
 
 
-openGL glut header files are must to install in your compiler
+openGL glut header files are must to install in your compiler. Already provided with the source code
 _______________________________________________________________________
 
 What is a Tic Tac Toe game?
